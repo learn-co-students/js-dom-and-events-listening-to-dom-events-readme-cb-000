@@ -4,7 +4,7 @@
 
 It's been established that we can easily manipulate "nodes" in the DOM, as well as
 create and remove elements at will. We know that we can, so how exactly _do_ we
-interact with nodes on the page? Well, we _listen_ for them!
+interact with nodes on the page? Well, we _listen_ for them!!
 
 ## Objectives
 
